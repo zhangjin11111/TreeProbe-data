@@ -1,0 +1,32 @@
+{
+  "release_name": "TreeProbe Curated QA Examples",
+  "release_version": "2026-11-11",
+  "total": 50,
+  "release_scope": "partial",
+  "full_release_trigger": "paper_acceptance",
+  "full_release_statement_en": "The complete TreeProbe benchmark dataset will be released after the paper is accepted.",
+  "full_release_statement_zh": "当前仅公开部分数据，完整TreeProbe数据集将在论文录用后公开。",
+  "retained_previous": 19,
+  "added_this_round": 31,
+  "by_subtask": {
+    "PR": 20,
+    "CDR": 15,
+    "CTP": 15
+  },
+  "roots_covered": 3,
+  "subtasks_covered": 3,
+  "target_paper_subtasks": 10,
+  "mcq_released": 0,
+  "license": "CC-BY-4.0",
+  "content_origins": {
+    "original_QA_answer_with_revised_stem": 12,
+    "source_reconstructed_QA_example": 23,
+    "original_QA_revised_against_six_source_slots": 15
+  },
+  "source_excerpt_support_checked": true,
+  "expert_adjudication_records_verified": false,
+  "original_paper_test_membership_verified": false,
+  "uses_model_scores_for_selection": false,
+  "claim_boundary": "可公开展示的数据整理示例，任务字段按论文PR/CDR/CTP定义组织；不是已核实来自论文4719条最终测试集的50条原题。",
+  "repository_url": "https://github.com/zhangjin11111/TreeProbe-data"
+}
